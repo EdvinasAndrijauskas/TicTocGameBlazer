@@ -1,0 +1,6 @@
+D:\Univer\C#\Sesion4\Blazer\TodoListWorking\obj\Debug\netcoreapp3.1\TodoListWorking.csprojAssemblyReference.cache
+D:\Univer\C#\Sesion4\Blazer\TodoListWorking\obj\Debug\netcoreapp3.1\TodoListWorking.AssemblyInfoInputs.cache
+D:\Univer\C#\Sesion4\Blazer\TodoListWorking\obj\Debug\netcoreapp3.1\TodoListWorking.AssemblyInfo.cs
+D:\Univer\C#\Sesion4\Blazer\TodoListWorking\obj\Debug\netcoreapp3.1\TodoListWorking.csproj.CoreCompileInputs.cache
+D:\Univer\C#\Sesion4\Blazer\TodoListWorking\obj\Debug\netcoreapp3.1\TodoListWorking.MvcApplicationPartsAssemblyInfo.cache
+D:\Univer\C#\Sesion4\Blazer\TodoListWorking\obj\Debug\netcoreapp3.1\TodoListWorking.RazorComponent.input.cache
