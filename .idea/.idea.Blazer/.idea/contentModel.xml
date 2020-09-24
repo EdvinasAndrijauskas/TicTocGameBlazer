@@ -12,9 +12,16 @@
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Components" t="Include">
+          <e p="Board.razor" t="Include" />
+          <e p="Square.razor" t="Include" />
+        </e>
         <e p="Data" t="Include">
           <e p="WeatherForecast.cs" t="Include" />
           <e p="WeatherForecastService.cs" t="Include" />
+        </e>
+        <e p="Helper" t="Include">
+          <e p="Helper.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -36,7 +43,6 @@
         <e p="Shared" t="Include">
           <e p="MainLayout.razor" t="Include" />
           <e p="NavMenu.razor" t="Include" />
-          <e p="SurveyPrompt.razor" t="Include" />
         </e>
         <e p="Startup.cs" t="Include" />
         <e p="TicTocGame.csproj" t="IncludeRecursive" />

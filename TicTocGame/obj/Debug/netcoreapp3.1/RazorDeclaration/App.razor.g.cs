@@ -76,6 +76,13 @@ using TicTocGame.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "D:\Univer\C#\Sesion4\Blazer\TicTocGame\_Imports.razor"
+using TicTocGame.Helper;
+
+#line default
+#line hidden
+#nullable disable
     public partial class App : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

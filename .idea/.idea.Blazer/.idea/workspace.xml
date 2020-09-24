@@ -35,6 +35,14 @@
         <option value="$PROJECT_DIR$/TodoTutorial/Data/ITodosService.cs" />
         <option value="$PROJECT_DIR$/TodoTutorial/Data/TodoService.cs" />
         <option value="$PROJECT_DIR$/TodoTutorial/Pages/TodoList.razor" />
+        <option value="$PROJECT_DIR$/TicTocGame/Sqare.razor" />
+        <option value="$PROJECT_DIR$/TicTocGame/Square.razor" />
+        <option value="$PROJECT_DIR$/TicTocGame/Board.razor" />
+        <option value="$PROJECT_DIR$/TicTocGame/Pages/Index.razor" />
+        <option value="$PROJECT_DIR$/TicTocGame/Components/Square.razor" />
+        <option value="$PROJECT_DIR$/TicTocGame/Helper/Helper.cs" />
+        <option value="$PROJECT_DIR$/TicTocGame/_Imports.razor" />
+        <option value="$PROJECT_DIR$/TicTocGame/Components/Board.razor" />
       </list>
     </option>
   </component>
@@ -46,10 +54,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.TodoTutorial">
+  <component name="RunManager" selected=".NET Launch Settings Profile.TicTocGame">
     <configuration name="Blazer" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Blazer/Blazer.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
@@ -241,7 +250,7 @@
       <updated>1600929416622</updated>
       <workItem from="1600929420640" duration="1510000" />
       <workItem from="1600952519606" duration="1333000" />
-      <workItem from="1600958170148" duration="3248000" />
+      <workItem from="1600958170148" duration="6159000" />
     </task>
     <servers />
   </component>
@@ -254,24 +263,28 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1600960564221">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1397" height="210" key="GridCell.Tab.0.bottom" timestamp="1600965304396">
+      <screen x="-1440" y="0" width="1440" height="850" />
     </state>
+    <state width="1397" height="210" key="GridCell.Tab.0.bottom/-1440.0.1440.850/0.0.1536.824@-1440.0.1440.850" timestamp="1600965304396" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom/-1440.0.1440.850/0.0.1536.824@0.0.1536.824" timestamp="1600960564221" />
     <state width="723" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600934243467" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1600960564221">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1397" height="210" key="GridCell.Tab.0.center" timestamp="1600965304395">
+      <screen x="-1440" y="0" width="1440" height="850" />
     </state>
+    <state width="1397" height="210" key="GridCell.Tab.0.center/-1440.0.1440.850/0.0.1536.824@-1440.0.1440.850" timestamp="1600965304395" />
     <state width="1493" height="210" key="GridCell.Tab.0.center/-1440.0.1440.850/0.0.1536.824@0.0.1536.824" timestamp="1600960564221" />
     <state width="723" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600934243467" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1600960564221">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1397" height="210" key="GridCell.Tab.0.left" timestamp="1600965304395">
+      <screen x="-1440" y="0" width="1440" height="850" />
     </state>
+    <state width="1397" height="210" key="GridCell.Tab.0.left/-1440.0.1440.850/0.0.1536.824@-1440.0.1440.850" timestamp="1600965304395" />
     <state width="1493" height="210" key="GridCell.Tab.0.left/-1440.0.1440.850/0.0.1536.824@0.0.1536.824" timestamp="1600960564221" />
     <state width="723" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600934243467" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1600960564221">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1397" height="210" key="GridCell.Tab.0.right" timestamp="1600965304396">
+      <screen x="-1440" y="0" width="1440" height="850" />
     </state>
+    <state width="1397" height="210" key="GridCell.Tab.0.right/-1440.0.1440.850/0.0.1536.824@-1440.0.1440.850" timestamp="1600965304396" />
     <state width="1493" height="210" key="GridCell.Tab.0.right/-1440.0.1440.850/0.0.1536.824@0.0.1536.824" timestamp="1600960564221" />
     <state width="723" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600934243467" />
     <state x="-1102" y="149" key="Rider.ProjectTemplateDialog.Size" timestamp="1600962688807">
@@ -283,9 +296,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="601" y="114" key="RiderGenerateDialog/-1440.0.1440.850/0.0.1536.824@0.0.1536.824" timestamp="1600953096509" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1600960196773">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="-1180" y="59" key="SettingsEditor" timestamp="1600962848296">
+      <screen x="-1440" y="0" width="1440" height="850" />
     </state>
+    <state x="-1180" y="59" key="SettingsEditor/-1440.0.1440.850/0.0.1536.824@-1440.0.1440.850" timestamp="1600962848296" />
     <state x="277" y="57" key="SettingsEditor/-1440.0.1440.850/0.0.1536.824@0.0.1536.824" timestamp="1600960196773" />
     <state x="480" y="0" width="727" height="824" key="find.popup" timestamp="1600960313061">
       <screen x="0" y="0" width="1536" height="824" />
